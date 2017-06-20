@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640.0000000000001" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_7">
+   <ellipse stroke="#000000" transform="rotate(-0.4361826479434967 278.83425903321256,236.2637023925808) " ry="196.031089" rx="132.001136" id="svg_1" cy="236.263694" cx="278.834285" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#8b929b"/>
+   <path stroke="#000000" id="svg_19" d="m276.334564,364.823312c-11.616553,-64.610886 -15.840757,-149.625204 -3.16815,-255.042961l-82.371923,-1.700287c39.073863,-35.706018 121.445786,-30.605156 185.864856,0c21.121003,11.902003 -96.100578,0 -96.100578,0c12.672601,154.726066 2.112102,207.43494 -4.224198,256.743249l-0.000007,0l0,-0.000001z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#5da0f7"/>
+   <path stroke="#000000" id="svg_15" d="m186.69922,373.752949c21.929752,-111.565633 35.838714,-314.960787 60.686944,-316.53954l86.313054,341.849849c-42.101941,-14.902259 -55.842945,-179.431044 -84.325714,-174.074074c-17.323465,-8.452451 -43.210043,150.94158 -62.674284,148.763764l0,0.000001z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#5da0f7"/>
+   <path stroke="#000000" id="svg_6" d="m228,212c0.571561,0 28.578034,0 28.006473,0c-20.576185,-136.639043 -25.720231,-19.789103 -28.006473,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#8b929b"/>
+  </g>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="352" y="348" id="svg_2" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(1.1081538200378418,0,0,1.192307710647583,-36.08788792043924,-67.8846218585968) " stroke="#000000">Inc.</text>
+ </g>
+</svg>
